@@ -14,7 +14,7 @@ This was a project from Traversy Media's course - 50 Projects In 50 Days on Udem
 
 ### Links
 
-- Live Site URL: []
+- Live Site URL: [https://joepdoyle.github.io/50projectsin50days-todo-list/]
 
 ## My process
 
